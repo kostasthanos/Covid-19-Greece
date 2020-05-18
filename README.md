@@ -21,11 +21,11 @@ The first one contains informations about :
 For example the tail (last 5 rows) of the first dataframe for the date 18/05/20 is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |
-|  78   |     14/5    |	   2770     |	    10     |	    0,36%      |	    1374   	| 1396 |  
-|  79   |	    15/5    |	   2810     |	    40     |	    1,44%      |	    1374    |	1436 |  
-|  80   |	    16/5    |	   2819     |	     9     |	    0,32%      |	    1374    |	1445 |  
-|  81   |     17/5    |	   2834     |	    15     |	    0,53%      |	    1374    |	1460 |  
-|  82   |	    18/5    |	   2836     |	     2     |	    0,07%      |	    1374    |	1462 |  
+|  78   |     14/5    |	   2770     |	    10     |	    0.36%      |	    1374   	| 1396 |  
+|  79   |	    15/5    |	   2810     |	    40     |	    1.44%      |	    1374    |	1436 |  
+|  80   |	    16/5    |	   2819     |	     9     |	    0.32%      |	    1374    |	1445 |  
+|  81   |     17/5    |	   2834     |	    15     |	    0.53%      |	    1374    |	1460 |  
+|  82   |	    18/5    |	   2836     |	     2     |	    0.07%      |	    1374    |	1462 |  
 
 The second dataframe contains one extra column about :  
 
@@ -34,11 +34,11 @@ The second dataframe contains one extra column about :
 For example the tail (last 5 rows) of the second dataframe for the date 18/05/20 is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  Max Temperatures |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |   --- |  
-|  77 	|     13/5    | 	 2760     |	    16     |     	0,58% 	   |      1374 	  | 1386 |	31.7 |  
-|  78   |     14/5    |	   2770     |	    10     |	    0,36%      |	    1374   	| 1396 |  32.4 |  
-|  79   |	    15/5    |	   2810     |	    40     |	    1,44%      |	    1374    |	1436 |  36.7 |  
-|  80   |	    16/5    |	   2819     |	     9     |	    0,32%      |	    1374    |	1445 |  38.2 |  
-|  81   |     17/5    |	   2834     |	    15     |	    0,53%      |	    1374    |	1460 |  38.7 |  
+|  77 	|     13/5    | 	 2760     |	    16     |     	0.58% 	   |      1374 	  | 1386 |	31.7 |  
+|  78   |     14/5    |	   2770     |	    10     |	    0.36%      |	    1374   	| 1396 |  32.4 |  
+|  79   |	    15/5    |	   2810     |	    40     |	    1.44%      |	    1374    |	1436 |  36.7 |  
+|  80   |	    16/5    |	   2819     |	     9     |	    0.32%      |	    1374    |	1445 |  38.2 |  
+|  81   |     17/5    |	   2834     |	    15     |	    0.53%      |	    1374    |	1460 |  38.7 |  
 
 In the second dataframe we use data until yesterday (- 1 day) because the temperature data are not yet available.
 
