@@ -19,12 +19,13 @@ The first one contains informations about :
 6. Number of Active Cases  
 
 For example the tail of the first dataframe is:
- 	Dates 	Total Cases 	Daily Cases 	Increase % 	Total Recovered 	Active Cases
-78 	14/5 	2770 	10 	0,36% 	1374 	1396
-79 	15/5 	2810 	40 	1,44% 	1374 	1436
-80 	16/5 	2819 	9 	0,32% 	1374 	1445
-81 	17/5 	2834 	15 	0,53% 	1374 	1460
-82 	18/5 	2836 	2 	0,07% 	1374 	1462
+ 	Dates |	Total Cases |	Daily Cases |	Increase % | Total Recovered |	Active Cases  
+  --- | --- | --- | --- |--- |--- |---
+78 | 14/5 |	2770 |	10 |	0,36% |	1374 	| 1396  
+79 |	15/5 |	2810 |	40 |	1,44% |	1374 |	1436  
+80 |	16/5 |	2819 |	9 |	0,32% |	1374 |	1445  
+81 | 17/5 |	2834 |	15 |	0,53% |	1374 |	1460  
+82 |	18/5 |	2836 |	2 |	0,07% |	1374 |	1462  
 
 The second dataframe contains one extra column about :
 
