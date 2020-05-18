@@ -18,7 +18,7 @@ The first one contains informations about :
 5. Number of Total Recovered  
 6. Number of Active Cases  
 
-For example the tail of the first dataframe for the date 18/05/20 is:  
+For example the tail (last 5 rows) of the first dataframe for the date 18/05/20 is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |
 |  78   |     14/5    |	   2770     |	    10     |	    0,36%      |	    1374   	| 1396 |  
@@ -31,7 +31,7 @@ The second dataframe contains one extra column about :
 
 7. Max Temperatures per Day  
 
-For example the tail of the second dataframe for the date 18/05/20 is:  
+For example the tail (last 5 rows) of the second dataframe for the date 18/05/20 is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  Max Temperatures |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |   --- |  
 |  77 	|     13/5    | 	 2760     |	    16     |     	0,58% 	   |      1374 	  | 1386 |	31.7 |  
