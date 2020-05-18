@@ -18,7 +18,7 @@ The first one contains informations about :
 5. Number of Total Recovered  
 6. Number of Active Cases  
 
-For example the tail of the first dataframe is:
+For example the tail of the first dataframe is:  
  	Dates |	Total Cases |	Daily Cases |	Increase % | Total Recovered |	Active Cases    
   --- | --- | --- | --- |--- |--- |---
 78 | 14/5 |	2770 |	10 |	0,36% |	1374 	| 1396  
