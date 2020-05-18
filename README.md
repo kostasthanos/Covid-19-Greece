@@ -47,7 +47,5 @@ The sources that been used to extract the data are :
 2. https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Greece  
 3. http://www.meteoacharnes.gr/statistika/datasummary.htm  
 
-There is also one extra .ods (Libre Office Calc) file (like Excel) in which we can see the same results as in the jupyter notebook.
-
 ## Author
 * **Konstantinos Thanos**
