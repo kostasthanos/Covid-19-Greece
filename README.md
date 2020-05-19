@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression.
 ## Last Update : 18/05/20
 
 <p align="center">
-  <img width="300" height="200" src="flag.png">
+  <img width="300" height="200" src="imgs/flag.png">
 </p>
 
 The data comes from the local csv file : *covid-19_greece_data.csv*
