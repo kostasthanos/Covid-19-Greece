@@ -55,7 +55,9 @@ Until 18/05/20 some of the plots of the data were :
 <p align="center">
   <img width="750" height="370" src="imgs/TotalCasesandRecovered.png">
 </p>
-
+<p align="center">
+  <img width="750" height="370" src="imgs/TotalandActiveCases.png">
+</p>
 <p align="center">
   <img width="750" height="370" src="imgs/CasesTemps.png">
 </p>
