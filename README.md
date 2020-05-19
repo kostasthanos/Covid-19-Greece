@@ -44,10 +44,21 @@ In the second dataframe we use data until yesterday (- 1 day) because the temper
 
 Until 18/05/20 some of the plots of the data were :
 <p align="center">
-  <img width="550" height="270" src="imgs/TotalCases.png">
+  <img width="750" height="370" src="imgs/TotalCases.png">
+</p>
+<p align="center">
+  <img width="750" height="370" src="imgs/DailyCasesBars.png">
+</p>
+<p align="center">
+  <img width="750" height="370" src="imgs/TotalDaily.png">
+</p>
+<p align="center">
+  <img width="750" height="370" src="imgs/TotalCasesandRecovered.png">
 </p>
 
-
+<p align="center">
+  <img width="750" height="370" src="imgs/CasesTemps.png">
+</p>
 
 The sources been used to extract the data are : 
 1. https://covid19.gov.gr/covid19-live-analytics/  
