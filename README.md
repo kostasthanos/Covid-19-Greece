@@ -1,6 +1,6 @@
 # Covid-19-Greece
 Data and Plots about the pandemic progression. 
-## Last Update : 31/05/20
+## Last Update : 02/06/20
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
