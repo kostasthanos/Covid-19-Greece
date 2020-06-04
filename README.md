@@ -1,12 +1,15 @@
 # Covid-19-Greece
 Data and Plots about the pandemic progression. 
-## Last Update : 02/06/20
+## Last Update : 04/06/20
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
 </p>
 
 The data comes from the local csv file : *covid-19_greece_data.csv*
+
+**Important Informations**
+
 
 In this project we load two dataframes from the above data-file. 
 The first one contains informations about : 
