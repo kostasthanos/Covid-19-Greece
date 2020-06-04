@@ -9,7 +9,23 @@ Data and Plots about the pandemic progression.
 The data comes from the local csv file : *covid-19_greece_data.csv*
 
 **Important Informations**
-
+|     |   Date   | Information |  
+| --- |    ---   |     ---     |
+|  1  | 29/03/20 | 1st case in Mount Athos |  
+|  2  | 31/03/20 | 20 cases on a ship outside the port of Piraeus |  
+|  3  | 02/04/20 | 23 cases in the Ritsona refugee and immigrant camp, 79 cases on the ship El. Venizelos |
+|  4  | 21/04/20 |
+|  5  | 23/04/20 |
+|  6  | 04/05/20 |
+|  7  | 06/05/20 |
+|  8  | 12/05/20 |
+|  9  | 15/05/20 |
+| 10  | 22/05/20 |
+| 11  | 27/05/20 |
+| 12  | 31/05/20 |
+| 13  | 02/06/20 |
+| 14  | 03/06/20 |
+ 
 
 In this project we load two dataframes from the above data-file. 
 The first one contains informations about : 
