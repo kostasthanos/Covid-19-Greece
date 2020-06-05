@@ -88,5 +88,9 @@ The sources been used to extract the data are :
 2. https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Greece  
 3. http://www.meteoacharnes.gr/statistika/datasummary.htm  
 
+## Extras
+Check also this svg map of the pandemic progression per region in Greece. Click the link below.
+https://codepen.io/KostasT/pen/PoPrLgK
+
 ## Author
 * **Konstantinos Thanos**
