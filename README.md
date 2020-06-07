@@ -24,7 +24,7 @@ The data comes from the local csv file : *covid-19_greece_data.csv*
 | 11  | 27/05/20 | 11 cases related to a known place and 2 related to repatriation repatriations |
 | 12  | 31/05/20 | Both cases come from abroad |
 | 13  | 02/06/20 | 12 cases related to flight arrival from abroad |
-| 14  | 03/06/20<br> 05/06/20 | There was no briefing on the progesss of the pandemic in country |
+| 14  | 03/06/20 | There was no briefing on the progesss of the pandemic in country |
  
 
 In this project we load two dataframes from the above data-file. 
