@@ -91,7 +91,7 @@ The sources been used to extract the data are :
 ## Extras
 Check also this svg map of the pandemic progression per region in Greece : https://codepen.io/KostasT/pen/PoPrLgK
 <p align="center">
-  <img width="800" height="500" src="imgs/svg.png">
+  <img width="800" height="400" src="imgs/svg.png">
 </p>
 
 ## Author
