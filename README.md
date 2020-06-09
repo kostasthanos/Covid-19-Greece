@@ -62,7 +62,7 @@ For example the tail (last 5 rows) of the second dataframe for the date 18/05/20
 
 In the second dataframe we use data until yesterday (- 1 day) because the temperature data are not yet available.
 
-Until **18/05/20** some of the plots of the data were :
+Until **09/06/20** some of the plots of the data were :
 <p align="center">
   <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalCases_9-6-2020.png">
 </p>
