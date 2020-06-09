@@ -64,22 +64,22 @@ In the second dataframe we use data until yesterday (- 1 day) because the temper
 
 Until **18/05/20** some of the plots of the data were :
 <p align="center">
-  <img width="750" height="370" src="imgs/TotalCases.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalCases_9-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="imgs/DailyCasesBars.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/DailyCasesBars_9-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="imgs/TotalDaily.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalDaily_9-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="imgs/TotalCasesandRecovered.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalCases_Recovered_9-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="imgs/TotalandActiveCases.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/Total_ActiveCases_9-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="imgs/CasesTemps.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/DailyCases_MaxTemps_8-6-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from Plots_per_Date.
