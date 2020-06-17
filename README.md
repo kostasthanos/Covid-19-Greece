@@ -1,6 +1,6 @@
 # Covid-19-Greece
 Data and Plots about the pandemic progression. 
-## Last Update : 13/06/20
+## Last Update : 17/06/20
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -26,7 +26,7 @@ The data comes from the local csv file : *covid-19_greece_data.csv*
 | 13  | 02/06/20 | 12 cases related to flight arrival from abroad |
 | 14  | 03/06/20 | There was no briefing on the progesss of the pandemic in country |
 | 15  | 04/06/20- <br> 08/06/20 | 30 travelers from abroad, and 29 in checks in Xanthi | 
- 
+| 16  | 17/06/20 | 43 cases in Xanthi and 6 cases in Rhodope | 
 
 In this project we load two dataframes from the above data-file. 
 The first one contains informations about : 
