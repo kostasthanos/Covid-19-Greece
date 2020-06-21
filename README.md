@@ -1,6 +1,6 @@
 # Covid-19-Greece
 Data and Plots about the pandemic progression. 
-## Last Update : 20/06/20
+## Last Update : 20/06/20 (115 days)
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -39,7 +39,7 @@ The first one contains informations about :
 5. Number of Total Recovered  
 6. Number of Active Cases  
 
-For example the tail (last 5 rows) of the first dataframe for the date 20/06/20 is:  
+For example the tail (last 5 rows) of the first dataframe for the date **20/06/20** is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |
 |  111  |     16/6    |	   3148     |	    15     |	    0.45%      |	    1374   	| 1774 |  
@@ -52,7 +52,7 @@ The second dataframe contains one extra column about :
 
 7. Max Temperatures per Day  
 
-For example the tail (last 5 rows) of the second dataframe for the date 20/06/20 is:  
+For example the tail (last 5 rows) of the second dataframe for the date **20/06/20** is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  Max Temperatures |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |   --- |  
 |  110 	|     15/5    | 	 3134     |	    13     |     	0.42% 	   |      1374 	  | 1760 |	32.4 |  
