@@ -52,7 +52,7 @@ The second dataframe contains one extra column about :
 
 7. Max Temperatures per Day  
 
-For example the tail (last 5 rows) of the second dataframe for the date 20/05/20 is:  
+For example the tail (last 5 rows) of the second dataframe for the date 20/06/20 is:  
 |       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  Max Temperatures |  
 |  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |   --- |  
 |  110 	|     15/5    | 	 3134     |	    13     |     	0.42% 	   |      1374 	  | 1760 |	32.4 |  
@@ -65,22 +65,22 @@ In the second dataframe we use data until yesterday (- 1 day) because the temper
 
 Until **20/06/20** some of the plots of the data were :
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalCases_9-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalCases_20-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/DailyCasesBars_9-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/DailyCasesBars_20-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalDaily_9-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalDaily_20-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/TotalCases_Recovered_9-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalCases_Recovered_20-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/Total_ActiveCases_9-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/Total_ActiveCases_20-6-2020.png">
 </p>
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_9-6-2020/DailyCases_MaxTemps_8-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/DailyCases_MaxTemps_8-6-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from Plots_per_Date.
