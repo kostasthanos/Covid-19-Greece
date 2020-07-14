@@ -1,4 +1,5 @@
 **Important Notes**
+
 |     |   Date   | Information |  
 | --- |    ---   |     ---     |
 |  1  | 29/03/20 | 1st case in Mount Athos |  
