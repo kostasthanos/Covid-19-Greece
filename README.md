@@ -41,7 +41,7 @@ For example the tail (last 5 rows) of the dataframe for the date **13/07/20** we
 |  138  |	   13/07    |	   3826     |	    24     |	     1374       |	    2259     |         30.9      |
 
 
-Until **13/07/20** some of the plot using the above dataframe were :
+and some of the plots until the same date (**13/07/20**) using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
