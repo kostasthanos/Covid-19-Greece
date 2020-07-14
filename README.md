@@ -73,9 +73,10 @@ and some of the plots until the same date (**13/07/20**) using the above datafra
   <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/DailyCases_MaxTemps_13-07-2020.png">
 </p>
 
-**Note:** To see the plots of an exact date, choose the corresponding folder from Plots_per_Date.
+**Note:** To see the plots of an exact date, choose the corresponding folder from *Plots_per_Date*.
 
-for a deeper understanding of how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project.
+## Check the jupyter notebook file
+For a deeper understanding on how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project.
 
 The sources been used to extract the data are : 
 1. Covid19.gov.gr : https://covid19.gov.gr/covid19-live-analytics/
