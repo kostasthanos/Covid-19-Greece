@@ -9,7 +9,7 @@ Data and Plots about the pandemic progression.
   <img width="300" height="200" src="imgs/flag.png">
 </p>
 
-
+## Main Idea
 This project focuses on the course of the virus Covid-19 in Greece by using the necessary data and the corresponding plots for better understanding of the progression of the pandemic.
 
 1. Dates  
