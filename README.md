@@ -59,7 +59,7 @@ Until **20/06/20** some of the plots of the data were :
 
 ## Total Cases & Total Recovered
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/TotalCases_Recovered_13-07-2020">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/TotalCases_Recovered_13-07-2020.png">
 </p>
 
 ## Total & Active number of Cases
