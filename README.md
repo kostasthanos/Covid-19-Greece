@@ -31,7 +31,7 @@ After the manipulation of the above data we create a dataframe containing the fo
 5. Active Cases
 6. Max Temperatures
 
-For example the tail (last 5 rows) of the dataframe for the date **13/07/20** is:  
+For example the tail (last 5 rows) of the dataframe for the date **13/07/20** were:  
 |       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases |  Max Temperatures | 
 |  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |         ---       |
 |  134  |    09/07    |	   3672     |	    50     |	     1374     	|     2105     |         29.7      |
