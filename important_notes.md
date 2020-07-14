@@ -18,7 +18,7 @@
 | 14  | 03/06/20 | There was no briefing on the progesss of the pandemic in country |
 | 15  | 04/06/20- <br> 08/06/20 | 30 travelers from abroad, and 29 in checks in Xanthi | 
 | 16  | 17/06/20 | 43 cases in Xanthi and 6 cases in Rhodope | 
-| 17  | 18/06/20 | 18 cases in the Xanthi, 2 in Rhodope and 4 people arriving from abroad |
+| 17  | 18/06/20 | 18 cases in the Xanthi, 2 in Rhodope and 4 from abroad |
 | 18  | 20/06/20 | 8 cases in Xanthi, 1 in Athens, 1 in Pella, and 9 cases from travellers who arrived to Greece with flights from abroad and by car from the Promachonas border crossing with Bulgaria |
 | 19  | 21/06/20 | 3 cases in Rhodope, 2 in Thesprotia, 1 in Xanthi and 4 from travellers arrived to Greece with flights from abroad and by car from the Promachonas border crossing with Bulgaria |
 | 20  | 26/06/20 | 10 cases from travellers who arrived to Greece with flights from abroad and by car through the Promachonas border crossing with Bulgaria |
