@@ -34,18 +34,14 @@ After the manipulation of the above data we create a dataframe containing the fo
 For example the tail (last 5 rows) of the dataframe for the date **13/07/20** is:  
 |       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases |  Max Temperatures | 
 |  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |         ---       |
-|  134  |     09/6    |	   3672     |	    50     |	     1374     	|     2105     |         29.7      |
-|  135  |	    10/6    |	   3732     |	    60     |	     1374       |	    2165     |         31.6      |
-|  136  |	    11/6    |	   3772     |	    41     |	     1374       |	    2205     |         32.9      |
-|  137  |     12/6    |	   3803     |	    31     |	     1374       |	    2236     |         33.0      |
-|  138  |	    13/6    |	   3826     |	    24     |	     1374       |	    2259     |         30.9      |
+|  134  |    09/07    |	   3672     |	    50     |	     1374     	|     2105     |         29.7      |
+|  135  |	   10/07    |	   3732     |	    60     |	     1374       |	    2165     |         31.6      |
+|  136  |	   11/07    |	   3772     |	    41     |	     1374       |	    2205     |         32.9      |
+|  137  |    12/07    |	   3803     |	    31     |	     1374       |	    2236     |         33.0      |
+|  138  |	   13/07    |	   3826     |	    24     |	     1374       |	    2259     |         30.9      |
 
 
-Until **13/07/20** some of the plot using the above dataframe
-
-
-
-Until **20/06/20** some of the plots of the data were :
+Until **13/07/20** some of the plot using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
@@ -79,16 +75,11 @@ Until **20/06/20** some of the plots of the data were :
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from Plots_per_Date.
 
-The sources been used to extract the data are : 
-1. https://covid19.gov.gr/covid19-live-analytics/  
-2. https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Greece  
-3. http://www.meteoacharnes.gr/statistika/datasummary.htm  
+for a deeper understanding of how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project.
 
-## Extras
-Check also this svg map of the pandemic progression per region in Greece : https://codepen.io/KostasT/pen/PoPrLgK
-<p align="center">
-  <img width="800" height="400" src="imgs/svg.png">
-</p>
+The sources been used to extract the data are : 
+1. Covid19.gov.gr : https://covid19.gov.gr/covid19-live-analytics/
+2. Acharnes weather station statistics : http://www.meteoacharnes.gr/statistika/datasummary.htm
 
 ## Author
 * **Konstantinos Thanos**
