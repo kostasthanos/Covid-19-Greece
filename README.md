@@ -1,5 +1,5 @@
 # Covid-19-Greece
-Data and Plots about the pandemic progression. 
+Data and Plots about the pandemic progression in Greece. 
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
