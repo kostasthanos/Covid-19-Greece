@@ -69,12 +69,12 @@ Until **20/06/20** some of the plots of the data were :
 
 ## Total & Daily Number of Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalDaily_13-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/TotalDaily_13-07-2020.png">
 </p>
 
 ## Daily Cases & Max Temperatures per day
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/DailyCases_MaxTemps_13-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/DailyCases_MaxTemps_13-07-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from Plots_per_Date.
