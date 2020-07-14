@@ -79,7 +79,7 @@ and some of the plots until the same date (**13/07/20**) using the above datafra
 For a deeper understanding on how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project.
 
 The sources been used to extract the data are : 
-1. Covid19.gov.gr : https://covid19.gov.gr/covid19-live-analytics/
+1. Covid19.gov.gr : https://eody.gov.gr/category/covid-19/
 2. Acharnes weather station statistics : http://www.meteoacharnes.gr/statistika/datasummary.htm
 
 ## Author
