@@ -1,15 +1,13 @@
 # Covid-19-Greece
 Data and Plots about the pandemic progression. 
 
-| <b>Last Update</b> | Total Cases | Days |
+| Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
 |  13-07-20   |     3826    |  139 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
 </p>
-
-The data comes from the local csv file : *covid-19_greece_data.csv*
 
 **Important Informations**
 |     |   Date   | Information |  
@@ -32,8 +30,7 @@ The data comes from the local csv file : *covid-19_greece_data.csv*
 | 16  | 17/06/20 | 43 cases in Xanthi and 6 cases in Rhodope | 
 | 17  | 18/06/20 | 18 cases in the Xanthi, 2 in Rhodope and 4 people arriving from abroad |
 
-In this project we load two dataframes from the above data-file. 
-The first one contains informations about : 
+
 
 1. Dates  
 2. Number of Total Cases  
