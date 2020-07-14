@@ -1,14 +1,9 @@
 # Covid-19-Greece
 Data and Plots about the pandemic progression. 
-## Last Update : 13/07/20
 
-<p align="center">
-  
-| Total Cases | Days |
-|     ---     |  --- |
-|     3826    |  139 |
-
-</p>
+| <b>Last Update</b> | Total Cases | Days |
+|     ---     |     ---     |  --- |
+|  13-07-20   |     3826    |  139 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
