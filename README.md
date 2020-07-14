@@ -22,55 +22,59 @@ We are focusing on three (3) basic datasets.
 2. New data from the official daily report by the Hellenic National Organization of Public Health (EODY).
 3. Weather data about the max temperature from Acharnes Weather Station.
 
-1. Dates  
-2. Number of Total Cases  
-3. Number of Daily Cases  
-4. Increase %  
-5. Number of Total Recovered  
-6. Number of Active Cases  
+After the manipulation of the above data we create a dataframe containing the following columns :
 
-For example the tail (last 5 rows) of the first dataframe for the date **20/06/20** is:  
-|       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  
-|  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |
-|  111  |     16/6    |	   3148     |	    15     |	    0.45%      |	    1374   	| 1774 |  
-|  112  |	    17/6    |	   3203     |	    55     |	    1.75%      |	    1374    |	1829 |  
-|  113  |	    18/6    |	   3227     |	    24     |	    0.75%      |	    1374    |	1853 |  
-|  114  |     19/6    |	   3237     |	    10     |	    0.31%      |	    1374    |	1863 |  
-|  115  |	    20/6    |	   3256     |	    19     |	    0.59%      |	    1374    |	1882 |  
+1. Dates
+2. Total Cases
+3. Daily Cases
+4. Total Recovered
+5. Active Cases
+6. Max Temperatures
 
-The second dataframe contains one extra column about :  
+For example the tail (last 5 rows) of the dataframe for the date **13/07/20** is:  
+|       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases |  Max Temperatures | 
+|  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |         ---       |
+|  134  |     09/6    |	   3672     |	    50     |	     1374     	|     2105     |         29.7      |
+|  135  |	    10/6    |	   3732     |	    60     |	     1374       |	    2165     |         31.6      |
+|  136  |	    11/6    |	   3772     |	    41     |	     1374       |	    2205     |         32.9      |
+|  137  |     12/6    |	   3803     |	    31     |	     1374       |	    2236     |         33.0      |
+|  138  |	    13/6    |	   3826     |	    24     |	     1374       |	    2259     |         30.9      |
 
-7. Max Temperatures per Day  
 
-For example the tail (last 5 rows) of the second dataframe for the date **20/06/20** is:  
-|       |     Dates   |	Total Cases |	Daily Cases |	Increase % | Total Recovered | Active Cases |  Max Temperatures |  
-|  ---  |      ---    |     ---     |     ---    |       ---       |      ---     |  --- |   --- |  
-|  110 	|     15/5    | 	 3134     |	    13     |     	0.42% 	   |      1374 	  | 1760 |	32.4 |  
-|  111  |     16/5    |	   3148     |	    15     |	    0.45%      |	    1374   	| 1774 |  30.5 |  
-|  112  |	    17/5    |	   3203     |	    55     |	    1.75%      |	    1374    |	1829 |  30.7 |  
-|  113  |	    18/5    |	   3227     |	    24     |	    0.75%      |	    1374    |	1853 |  31.9 |  
-|  114  |     19/5    |	   3237     |	    10     |	    0.31%      |	    1374    |	1863 |  32.8 |  
+Until **13/07/20** some of the plot using the above dataframe
 
-In the second dataframe we use data until yesterday (- 1 day) because the temperature data are not yet available.
+
 
 Until **20/06/20** some of the plots of the data were :
+
+## Total Cases per day
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalCases_20-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/TotalCases_13-07-2020.png">
 </p>
+
+## Daily Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/DailyCasesBars_20-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/DailyCasesBars_13-07-2020.png">
 </p>
+
+## Total Cases & Total Recovered
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalDaily_20-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/TotalCases_Recovered_13-07-2020">
 </p>
+
+## Total & Active number of Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalCases_Recovered_20-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/Total_ActiveCases_13-07-2020.png">
 </p>
+
+## Total & Daily Number of Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/Total_ActiveCases_20-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/TotalDaily_13-07-2020.png">
 </p>
+
+## Daily Cases & Max Temperatures per day
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/DailyCases_MaxTemps_19-6-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_20-6-2020/DailyCases_MaxTemps_13-07-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from Plots_per_Date.
