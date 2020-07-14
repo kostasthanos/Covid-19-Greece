@@ -10,7 +10,17 @@ Data and Plots about the pandemic progression.
 </p>
 
 ## Main Idea
-This project focuses on the course of the virus Covid-19 in Greece by using the necessary data and the corresponding plots for better understanding of the progression of the pandemic.
+This project focuses on the virus Covid-19 in Greece by using the necessary data and the corresponding plots for better understanding of the progression of the pandemic in the country.
+
+The main and most important file of the project is : *Covid-19_Data_Greece.ipynb*.
+
+## A closer look on the file
+
+We are focusing on three (3) basic datasets.
+
+1. Data of the virus from the beggining until today.
+2. New data from the official daily report by the Hellenic National Organization of Public Health (EODY).
+3. Weather data about the max temperature from Acharnes Weather Station.
 
 1. Dates  
 2. Number of Total Cases  
