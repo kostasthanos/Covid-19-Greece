@@ -5,7 +5,8 @@ The procedure followed for the collection of the data from the daily reports abo
 1. Set the current (daily report) url for the pdf file.
 
 ```
-eody_url = 'https://eody.gov.gr/wp-content/uploads/' + current_year + '/' + month + '/covid-gr-daily-report-' + current_year + month + day + '.pdf'
+eody_url = 'https://eody.gov.gr/wp-content/uploads/' + current_year + '/'  
+            + month + '/covid-gr-daily-report-' + current_year + month + day + '.pdf'
 ```
 For example if we want the daily report for the date 13/07, the corresponding url will be:   
 'https://eody.gov.gr/wp-content/uploads/2020/07/covid-gr-daily-report-20200713.pdf'
