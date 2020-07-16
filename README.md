@@ -12,7 +12,9 @@ Data and Plots about the pandemic progression in Greece.
 ## Main Idea
 This project focuses on the virus Covid-19 in Greece by using the necessary data and the corresponding plots for better understanding of the progression of the pandemic in the country.
 
-The main and most important file of the project is : *Covid-19_Data_Greece.ipynb*.
+The main file of the project is : *Covid-19_Data_Greece.ipynb*.  
+The most important file of the project is : *pdf_text_data_extract.py*
+which is part of the mail file but it has been added and as seperated file for better understanding.
 
 ## A closer look on the file
 
