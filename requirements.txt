@@ -1,0 +1,22 @@
+os
+
+calendar
+datetime
+pandas
+
+urlib
+requests
+re
+
+pdfminer
+
+io
+
+bs4/ BeautifulSoup
+
+plotly.subplots/make_subplots
+plotly.graph_objects
+cufflinks
+matplotlib.pyplot
+ 
+lxml.html/fromstring
