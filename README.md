@@ -29,16 +29,15 @@ After the manipulation of the above data we create a dataframe containing the fo
 3. Daily Cases
 4. Total Recovered
 5. Active Cases
-6. Max Temperatures
 
 For example the tail (last 5 rows) of the dataframe for the date **13/07/20** were:  
-|       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases |  Max Temperatures | 
-|  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |         ---       |
-|  134  |    09/07    |	   3672     |	    50     |	     1374     	|     2105     |         29.7      |
-|  135  |	   10/07    |	   3732     |	    60     |	     1374       |	    2165     |         31.6      |
-|  136  |	   11/07    |	   3772     |	    41     |	     1374       |	    2205     |         32.9      |
-|  137  |    12/07    |	   3803     |	    31     |	     1374       |	    2236     |         33.0      |
-|  138  |	   13/07    |	   3826     |	    24     |	     1374       |	    2259     |         30.9      |
+|       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases | 
+|  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |
+|  134  |    09/07    |	   3672     |	    50     |	     1374     	|     2105     |
+|  135  |	   10/07    |	   3732     |	    60     |	     1374       |	    2165     | 
+|  136  |	   11/07    |	   3772     |	    41     |	     1374       |	    2205     |
+|  137  |    12/07    |	   3803     |	    31     |	     1374       |	    2236     |
+|  138  |	   13/07    |	   3826     |	    24     |	     1374       |	    2259     |
 
 
 and some of the plots until the same date (**13/07/20**) using the above dataframe were :
@@ -66,11 +65,6 @@ and some of the plots until the same date (**13/07/20**) using the above datafra
 ## Total & Daily Number of Cases
 <p align="center">
   <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/TotalDaily_13-07-2020.png">
-</p>
-
-## Daily Cases & Max Temperatures per day
-<p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_13-07-2020/DailyCases_MaxTemps_13-07-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *Plots_per_Date*.
