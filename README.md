@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
-|  13-07-20   |     3826    |  139 |
+|  15-07-20   |     3910    |  140 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -79,8 +79,9 @@ and some of the plots until the same date (**13/07/20**) using the above datafra
 For a deeper understanding on how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project.
 
 The sources been used to extract the data are : 
-1. Covid19.gov.gr : https://eody.gov.gr/category/covid-19/
-2. Acharnes weather station statistics : http://www.meteoacharnes.gr/statistika/datasummary.htm
+Covid19.gov.gr : https://eody.gov.gr/category/covid-19/
+
+**Note:** Max Temperature data has been deleted from the csv file.
 
 ## Author
 * **Konstantinos Thanos**
