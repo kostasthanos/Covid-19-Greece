@@ -1,22 +1,14 @@
-os
-
-calendar
-datetime
-pandas
-
-urlib
-requests
-re
-
-pdfminer
-
-io
-
-bs4/ BeautifulSoup
-
-plotly.subplots/make_subplots
-plotly.graph_objects
-cufflinks
-matplotlib.pyplot
- 
-lxml.html/fromstring
+ 1. os
+ 2. calendar
+ 3. datetime
+ 4. pandas
+ 5. requests
+ 6. re
+ 7. pdfminer
+ 8. io
+ 9. bs4/ BeautifulSoup
+10. plotly.subplots/make_subplots
+11. plotly.graph_objects
+12. cufflinks
+13. matplotlib.pyplot
+14. lxml.html/fromstring
