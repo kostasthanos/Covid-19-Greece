@@ -25,4 +25,4 @@
 | 21  | 06/07/20 | 36 cases found after checks at the country's gates |
 | 22  | 09/07/20 | 24 cases found after checks at the country's gates |
 | 23  | 10/07/20 | 40 cases found after checks at the country's gates |
-| 24  | 17/07/20 | Mandatory use of mask in supermarkets by employees and consumers starting from 18-07 |
+| 24  | 17/07/20 | Mandatory use of mask in supermarkets by employees and consumers starting from 18/07/20 |
