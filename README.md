@@ -30,14 +30,14 @@ After the manipulation of the above data we create a dataframe containing the fo
 4. Total Recovered
 5. Active Cases
 
-For example the tail (last 5 rows) of the dataframe for the date **23/07/20** were:  
+For example the tail (last 5 rows) of the dataframe for the date **25/07/20** were:  
 |       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases | 
 |  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |
-|  144  |    19/07    |    4007     |     24     |       1374       |      2439    |
-|  145  |    20/07    |    4012     |     11     |       1374       |      2443    |
 |  146  |    21/07    |    4048     |     36     |       1374       |      2477    |
 |  147  |    22/07    |    4077     |     32     |       1374       |      2503    |
 |  148  |    23/07    |    4110     |     33     |       1374       |      2535    |
+|  149  |    24/07    |    4135     |     26     |       1374       |      2560    |
+|  151  |    25/07    |    4166     |     31     |       1374       |      2591    |
 
 
 and some of the plots until the same date (**25/07/20**) using the above dataframe were :
