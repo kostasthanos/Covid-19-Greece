@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
-|  24-07-20   |     4135    |  150 |
+|  25-07-20   |     4166    |  151 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -40,31 +40,31 @@ For example the tail (last 5 rows) of the dataframe for the date **23/07/20** we
 |  148  |    23/07    |    4110     |     33     |       1374       |      2535    |
 
 
-and some of the plots until the same date (**23/07/20**) using the above dataframe were :
+and some of the plots until the same date (**25/07/20**) using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_23-07-2020/TotalCases_23-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_25-07-2020/TotalCases_25-07-2020.png">
 </p>
 
 ## Daily Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_23-07-2020/DailyCasesBars_23-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_25-07-2020/DailyCasesBars_25-07-2020.png">
 </p>
 
 ## Total Cases & Total Recovered
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_23-07-2020/TotalCases_Recovered_23-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_25-07-2020/TotalCases_Recovered_25-07-2020.png">
 </p>
 
 ## Total & Active number of Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_23-07-2020/Total_ActiveCases_23-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_25-07-2020/Total_ActiveCases_25-07-2020.png">
 </p>
 
 ## Total & Daily Number of Cases
 <p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_23-07-2020/TotalDaily_23-07-2020.png">
+  <img width="750" height="370" src="Plots_per_Date/Plots_for_25-07-2020/TotalDaily_25-07-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *Plots_per_Date*.
