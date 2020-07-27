@@ -6,7 +6,7 @@ Data and Plots about the pandemic progression in Greece.
 |  27-07-20   |     4227    |  153 |
 
 <p align="center">
-  <img width="300" height="200" src="mgs/flag.png">
+  <img width="300" height="200" src="imgs/flag.png">
 </p>
 
 ## Main Idea
@@ -79,6 +79,9 @@ The sources been used to extract the data are :
 **Covid19.gov.gr** : https://eody.gov.gr/category/covid-19/
 
 **Note:** Max Temperature data has been deleted from the csv file.
+
+Check also for a more visual display of covid-19 cases in Greece per region the following page : 
+[Covid-19 cases per region Greece](https://kostasthanos.github.io/svg_map_cases/regions_index.html)
 
 ## Author
 * **Konstantinos Thanos**
