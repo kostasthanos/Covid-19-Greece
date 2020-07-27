@@ -80,7 +80,8 @@ The sources been used to extract the data are :
 
 **Note:** Max Temperature data has been deleted from the csv file.
 
-Check also for a more visual display of covid-19 cases in Greece per region the following page : 
+## Check also 
+For a more visual display of covid-19 cases in Greece per region the following page : 
 [Covid-19 cases per region Greece](https://kostasthanos.github.io/svg_map_cases/regions_index.html)
 
 ## Author
