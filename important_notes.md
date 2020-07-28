@@ -26,4 +26,4 @@
 | 22  | 09/07/20 | 24 cases found after checks at the country's gates |
 | 23  | 10/07/20 | 40 cases found after checks at the country's gates |
 | 24  | 17/07/20 | Mandatory use of mask in supermarkets by employees and consumers starting from 18/07/20 |
-| 25  | 28-07-20 | 52 new cases of which 7 found after checks at the country's gates. The spread of the virus ισ increasing |
+| 25  | 28-07-20 | 52 new cases of which 7 found after checks at the country's gates. The spread of the virus is increasing |
