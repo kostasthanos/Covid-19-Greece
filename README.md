@@ -56,7 +56,7 @@ and some of the plots until the same date (**30/07/20**) using the above datafra
   <img width="750" height="370" src="Plots_per_Date/Plots_for_30-07-2020/TotalCases_Recovered_30-07-2020.png">
 </p>
 
-## Total & Active number of Cases
+## Total & Active Number of Cases
 <p align="center">
   <img width="750" height="370" src="Plots_per_Date/Plots_for_30-07-2020/Total_ActiveCases_30-07-2020.png">
 </p>
@@ -67,6 +67,7 @@ and some of the plots until the same date (**30/07/20**) using the above datafra
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *Plots_per_Date*.
+You can also see the above plots created with (plotly) in [Latest Plots of covid-19 in Greece](https://kostasthanos.github.io/svg_map_cases/Data_Plots/Categories/greek_plots.html)
 
 ## Check the jupyter notebook file
 For a deeper understanding on how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project. 
@@ -74,7 +75,6 @@ For a deeper understanding on how the data are being collected and used see the 
 Information about data extraction from the daily report are in the file [data_extraction.md](https://github.com/kostasthanos/Covid-19-Greece/blob/master/data_extraction.md)
 
 The sources been used to extract the data are : 
-
 **Covid19.gov.gr** : https://eody.gov.gr/category/covid-19/
 
 **Note:** Max Temperature data has been deleted from the csv file.
