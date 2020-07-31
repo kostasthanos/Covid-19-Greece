@@ -26,4 +26,5 @@
 | 22  | 09/07/20 | 24 cases found after checks at the country's gates |
 | 23  | 10/07/20 | 40 cases found after checks at the country's gates |
 | 24  | 17/07/20 | Mandatory use of mask in supermarkets by employees and consumers starting from 18/07/20 |
-| 25  | 28-07-20 | 52 new cases of which 7 found after checks at the country's gates. The spread of the virus is increasing. <br>  From Wednesday 29/07, the mandatory use of a mask for employees and the public is extended to retail stores, offices/services that have contact with the public, DEKO, banks, doctor's offices, food shops (bakeries, butchers, patisseries, hairdressers and beauty salons |
+| 25  | 28/07/20 | 52 new cases of which 7 found after checks at the country's gates. The spread of the virus is increasing. <br>  From Wednesday 29/07, the mandatory use of a mask for employees and the public is extended to retail stores, offices/services that have contact with the public, DEKO, banks, doctor's offices, food shops (bakeries, butchers, patisseries, hairdressers and beauty salons |
+| 26  | 29/07/20 | Update on cases from Civil Protection. Total cases **4193**, Active cases **429**, Recovered from home **2501**, Exit hospital **1061** |
