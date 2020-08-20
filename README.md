@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
-|  20-08-20   |     7684    |  177 |
+|  20-08-20   |     7934    |  177 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
