@@ -6,7 +6,7 @@ Data and Plots about the pandemic progression in Greece.
 |  28-09-20   |    17444    |  216 |
 
 <p align="center">
-  <img width="300" height="200" src="imgs/flag.png" style="border-radius:10px;">
+  <img width="300" height="200" src="imgs/flag.png">
 </p>
 
 ## Main Idea
