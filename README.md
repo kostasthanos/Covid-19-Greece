@@ -66,7 +66,7 @@ and the plots until the same date (**05/10/20**) using the above dataframe were 
   <img width="750" height="370" src="Plots_per_Date/Plots_for_05-10-2020/TotalDaily_05-10-2020.png">
 </p>
 
-**Note:** To see the plots of an exact date, choose the corresponding folder from *Plots_per_Date*.
+**Note:** To see the plots of an exact date, choose the corresponding folder from *[Plots_per_Date](https://github.com/kostasthanos/Covid-19-Greece/tree/master/Plots_per_Date)*.
 You can also see the above plots created with (plotly) in [Latest Plots of covid-19 in Greece](https://kostasthanos.github.io/svg_map_cases/Data_Plots/Categories/greek_plots.html).
 
 ## Check the jupyter notebook file
