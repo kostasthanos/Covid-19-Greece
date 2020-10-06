@@ -37,9 +37,11 @@ For example the tail (last 5 rows) of the dataframe for the date **05/10/20** we
 |  220  |    02/10    |   19346     |    460     |      11686       |      7262    |
 |  221  |    03/10    |   19613     |    267     |      11686       |      7522    |
 |  222  |    04/10    |   19842     |    229     |      11686       |      7747    |
-|  223  |    05/10    |   20142     |    303     |      11686       |      8039   |
+|  223  |    05/10    |   20142     |    303     |      11686       |      8039    |
 
-and ## Total Cases per day
+and the plots corresponding to the same date (**05/10/20**) are :
+
+## Total Cases per day
 <p align="center">
   <img width="750" height="370" src="Plots_per_Date/Plots_for_05-10-2020/TotalCases_05-10-2020.png">
 </p>
