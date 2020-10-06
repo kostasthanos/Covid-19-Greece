@@ -72,9 +72,9 @@ You can also see the above plots created with (plotly) in [Latest Plots of covid
 ## Check the jupyter notebook file
 For a deeper understanding on how the data are being collected and used see the file *Covid-19_Data_Greece.ipynb* which contains all the necessary python comments describing each step of the project. 
 
-Information about data extraction from the daily report are in the file [data_extraction.md](https://github.com/kostasthanos/Covid-19-Greece/blob/master/data_extraction.md)
+Information about data extraction from the daily report are in the file [data_extraction.md](https://github.com/kostasthanos/Covid-19-Greece/blob/master/data_extraction.md).
 
-The sources been used to extract the data are : 
+The sources been used to extract the data are :  
 **Covid19.gov.gr** : https://eody.gov.gr/category/covid-19/
 
 **Note:** Max Temperature data has been deleted from the csv file.
