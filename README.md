@@ -16,13 +16,13 @@ The main file of the project is : *[Covid-19_Data_Greece.ipynb](https://github.c
 
 ## A closer look on the file
 
-We are focusing on three (3) basic datasets.
+Use of three (3) basic datasets.
 
 1. All the previous Covid-19 data from the beginning of the pandemic in the country.
 2. New data from the official daily report by the Hellenic National Organization of Public Health (EODY).
 3. Weather data about the max temperature from Acharnes Weather Station (**removed**).
 
-After the manipulation of the above data we create a dataframe containing the following columns :
+After the manipulation of the above data a dataframe is being created, containing the following columns :
 
 1. Dates
 2. Total Cases
