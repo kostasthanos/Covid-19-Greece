@@ -39,7 +39,7 @@ For example the tail (last 5 rows) of the dataframe for the date **05/10/20** we
 |  222  |    04/10    |   19842     |    229     |      11686       |      7747    |
 |  223  |    05/10    |   20142     |    303     |      11686       |      8039    |
 
-and the plots corresponding to the same date (**05/10/20**) are :
+and the plots until the same date (**05/10/20**) using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
@@ -64,30 +64,6 @@ and the plots corresponding to the same date (**05/10/20**) are :
 ## Total & Daily Number of Cases
 <p align="center">
   <img width="750" height="370" src="Plots_per_Date/Plots_for_05-10-2020/TotalDaily_05-10-2020.png">
-</p>the plots until the same date (**05/10/20**) using the above dataframe were :
-## Total Cases per day
-<p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_04-10-2020/TotalCases_04-10-2020.png">
-</p>
-
-## Daily Cases
-<p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_04-10-2020/DailyCasesBars_04-10-2020.png">
-</p>
-
-## Total Cases & Total Recovered
-<p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_04-10-2020/TotalCases_Recovered_04-10-2020.png">
-</p>
-
-## Total & Active Number of Cases
-<p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_04-10-2020/Total_ActiveCases_04-10-2020.png">
-</p>
-
-## Total & Daily Number of Cases
-<p align="center">
-  <img width="750" height="370" src="Plots_per_Date/Plots_for_04-10-2020/TotalDaily_04-10-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *Plots_per_Date*.
