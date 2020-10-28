@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
-|  26-10-20   |    31496    |  244 |
+|  28-10-20   |    34299    |  246 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -30,40 +30,40 @@ After the manipulation of the above data a dataframe is being created, containin
 4. Total Recovered
 5. Active Cases
 
-For example the tail (last 5 rows) of the dataframe for the date **26/10/20** were:  
+For example the tail (last 5 rows) of the dataframe for the date **28/10/20** were:  
 |       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases | 
 |  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |
-|  240  |    22/10    |   28216     |    882     |      19749       |      7918    |
-|  241  |    23/10    |   29057     |    841     |      19749       |      8749    |
 |  242  |    24/10    |   29992     |    935     |      19749       |      9679    |
 |  243  |    25/10    |   30782     |    790     |      19749       |     10459    |
 |  244  |    26/10    |   31496     |    715     |      19749       |     11166    |
+|  245  |    27/10    |   32752     |   1259     |      19749       |     12410    |
+|  246  |    28/10    |   34299     |   1547     |      19749       |     13947    |
 
-and the plots until the same date (**26/10/20**) using the above dataframe were :
+and the plots until the same date (**28/10/20**) using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_26-10-2020/TotalCases_26-10-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_28-10-2020/TotalCases_28-10-2020.png">
 </p>
 
 ## Daily Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_26-10-2020/DailyCasesBars_26-10-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_28-10-2020/DailyCasesBars_28-10-2020.png">
 </p>
 
 ## Total Cases & Total Recovered
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_26-10-2020/TotalCases_Recovered_26-10-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_28-10-2020/TotalCases_Recovered_28-10-2020.png">
 </p>
 
 ## Total & Active Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_26-10-2020/Total_ActiveCases_26-10-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_28-10-2020/Total_ActiveCases_28-10-2020.png">
 </p>
 
 ## Total & Daily Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_26-10-2020/TotalDaily_26-10-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_28-10-2020/TotalDaily_28-10-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *[Plots_per_Date](https://github.com/kostasthanos/Covid-19-Greece/tree/master/Plots_per_Date)*.
