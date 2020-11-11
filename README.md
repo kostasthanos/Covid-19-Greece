@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
-|  09-11-20   |    58187    |  258 |
+|  10-11-20   |    60570    |  259 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -30,16 +30,16 @@ After the manipulation of the above data a dataframe is being created, containin
 4. Total Recovered
 5. Active Cases
 
-For example the tail (last 5 rows) of the dataframe for the date **09/11/20** were:  
+For example the tail (last 5 rows) of the dataframe for the date **10/11/20** were:  
 |       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases | 
 |  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |
-|  254  |    05/11    |   49807     |   2917     |      23074       |     26031    |
 |  255  |    06/11    |   52254     |   2448     |      23074       |     28465    |
 |  256  |    07/11    |   54809     |   2556     |      23074       |     30986    |
 |  257  |    08/11    |   56698     |   1914     |      23074       |     32840    |
 |  258  |    09/11    |   58187     |   1490     |      23074       |     34288    |
+|  259  |    10/11    |   60570     |   2384     |      23074       |     36630    |
 
-and the plots until the same date (**09/11/20**) using the above dataframe were :
+and the plots until the same date (**10/11/20**) using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
