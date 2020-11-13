@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update | Total Cases | Days |
 |     ---     |     ---     |  --- |
-|  11-11-20   |    63321    |  260 |
+|  13-11-20   |    69675    |  262 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -30,40 +30,40 @@ After the manipulation of the above data a dataframe is being created, containin
 4. Total Recovered
 5. Active Cases
 
-For example the tail (last 5 rows) of the dataframe for the date **11/11/20** were:  
+For example the tail (last 5 rows) of the dataframe for the date **13/11/20** were:  
 |       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases | 
 |  ---  |      ---    |     ---     |     ---    |       ---        |      ---     |
-|  256  |    07/11    |   54809     |   2556     |      23074       |     30986    |
-|  257  |    08/11    |   56698     |   1914     |      23074       |     32840    |
 |  258  |    09/11    |   58187     |   1490     |      23074       |     34288    |
 |  259  |    10/11    |   60570     |   2384     |      23074       |     36630    |
 |  260  |    11/11    |   63321     |   2752     |      23074       |     39338    |
+|  261  |    12/11    |   66637     |   3316     |      23074       |     42604    |
+|  262  |    13/11    |   69675     |   3038     |      23074       |     45604    |
 
-and the plots until the same date (**11/11/20**) using the above dataframe were :
+and the plots until the same date (**13/11/20**) using the above dataframe were :
 
 ## Total Cases per day
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_11-11-2020/TotalCases_11-11-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_13-11-2020/TotalCases_13-11-2020.png">
 </p>
 
 ## Daily Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_11-11-2020/DailyCasesBars_11-11-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_13-11-2020/DailyCasesBars_13-11-2020.png">
 </p>
 
 ## Total Cases & Total Recovered
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_11-11-2020/TotalCases_Recovered_11-11-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_13-11-2020/TotalCases_Recovered_13-11-2020.png">
 </p>
 
 ## Total & Active Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_11-11-2020/Total_ActiveCases_11-11-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_13-11-2020/Total_ActiveCases_13-11-2020.png">
 </p>
 
 ## Total & Daily Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_11-11-2020/TotalDaily_11-11-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_13-11-2020/TotalDaily_13-11-2020.png">
 </p>
 
 ## (NEW) Total Cases per Month
