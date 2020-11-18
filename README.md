@@ -68,7 +68,7 @@ and the plots until the same date (**18/11/20**) using the above dataframe were 
 
 ## (NEW) Total Cases per Month
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_11-11-2020/PerMonth_11-11-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_18-11-2020/PerMonth_18-11-2020.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *[Plots_per_Date](https://github.com/kostasthanos/Covid-19-Greece/tree/master/Plots_per_Date)*.
