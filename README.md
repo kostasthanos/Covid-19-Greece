@@ -37,7 +37,7 @@ For example the tail (last 5 rows) of the dataframe for the date **08/12/20** we
 |  284  |    05/12    |   114568    |    1383     |      23074      |     88592    |
 |  285  |    06/12    |   115471    |     904     |      23074      |     89394    |
 |  286  |    07/12    |   116721    |    1251     |      23074      |     90555    |
-|  287  |    08/12    |   118045    |    1251     |      23074      |     91777    |
+|  287  |    08/12    |   118045    |    1382     |      23074      |     91777    |
 
 and the plots until the same date (**08/12/20**) using the above dataframe were :
 
