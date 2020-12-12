@@ -43,13 +43,6 @@ and the plots until the same date (**11/12/20**) using the above dataframe were 
 
 ## Total Cases per day
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_08-12-2020/TotalCases_08-12-2020.png">
-</p>
-
-## Daily Cases
-<p align="center">
-## Total Cases per day
-<p align="center">
   <img width="950" height="468" src="Plots_per_Date/Plots_for_11-12-2020/TotalCases_11-12-2020.png">
 </p>
 
