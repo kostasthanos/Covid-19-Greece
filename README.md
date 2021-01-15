@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update |  Total Cases | Days |
 |     ---     |      ---     |  --- |
-|  31-12-20   |    138850    |  310 |
+|  15-01-21   |    147860    |  325 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -29,45 +29,65 @@ After the manipulation of the above data a dataframe is being created, containin
 3. Daily Cases
 4. Total Recovered
 5. Active Cases
+6. Total RTPCR tests
+7. Total RAPID AG tests
+8. Total Tests
+9. Daily Tests
 
-For example the tail (last 5 rows) of the dataframe for the date **31/12/20** were:  
-|       |     Dates   |	Total Cases |	Daily Cases | Total Recovered | Active Cases | 
-|  ---  |      ---    |     ---     |     ---     |       ---       |      ---     |
-|  306  |    27/12    |   135456    |     342     |      98312      |     32538    |
-|  307  |    28/12    |   135931    |     476     |      98312      |     32947    |
-|  308  |    29/12    |   136976    |    1047     |      98312      |     33934    |
-|  309  |    30/12    |   137918    |     942     |      98312      |     34818    |
-|  310  |    31/12    |   138850    |     932     |      98312      |     35700    |
 
-and the plots until the same date (**30/12/20**) using the above dataframe were :
+For example the tail (last 5 rows) of the dataframe for the date **15/01/21** were:  
+|       |       Dates     |	Total Cases |	Daily Cases | Total Recovered | Active Cases | Total RTPCR tests | Total RAPID AG tests | Total Tests | Daily Tests |
+|  ---  |        ---      |     ---     |     ---     |       ---       |      ---     |        ---        |          ---         |     ---     |      ---    |
+|  321  |     11/01/21    |   145179    |     444     |      98312      |     41565    |      2897143      |         716066       |   3613209   |     16670   |
+|  322  |     12/01/21    |   146020    |     866     |      98312      |     42379    |      2909699      |         745184       |   3654883   |     41674   |
+|  323  |     13/01/21    |   146688    |     671     |      98312      |     43022    |      2921563      |         768300       |   3689863   |     34980   |
+|  324  |     14/01/21    |   147283    |     599     |      98312      |     43584    |      2933838      |         791064       |   3724902   |     35039   |
+|  325  |     15/01/21    |   147860    |     610     |      98312      |     44127    |      2945406      |         812024       |   3757430   |     32528   |
+
+and the plots until the same date (**15/01/21**) using the above dataframe were :
 ## Total Cases per day
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_31-12-2020/TotalCases_31-12-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalCases_15-01-21.png">
 </p>
 
 ## Daily Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_31-12-2020/DailyCasesBars_31-12-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/DailyCasesBars_15-01-21.png">
 </p>
 
 ## Total Cases & Total Recovered
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_31-12-2020/TotalCases_Recovered_31-12-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalCases_Recovered_15-01-21.png">
 </p>
 
 ## Total & Active Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_31-12-2020/Total_ActiveCases_31-12-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/Total_ActiveCases_15-01-21.png">
 </p>
 
 ## Total & Daily Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_31-12-2020/TotalDaily_31-12-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalDaily_15-01-21.png">
 </p>
 
 ## Total Cases per Month
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_31-12-2020/PerMonth_31-12-2020.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/PerMonth_15-01-21.png">
+</p>
+
+## Daily number of Tests
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/DailyTests_15-01-21.png">
+</p>
+
+## Total number of Tests
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalTests_15-01-21.png">
+</p>
+
+## Total number of Tests (RT-PCR and RAPID AG)
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/Total_Tests_both_15-01-21.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *[Plots_per_Date](https://github.com/kostasthanos/Covid-19-Greece/tree/master/Plots_per_Date)*.
