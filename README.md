@@ -55,11 +55,6 @@ and the plots until the same date (**15/01/21**) using the above dataframe were 
   <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/DailyCasesBars_15-01-21.png">
 </p>
 
-## Total Cases & Total Recovered
-<p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalCases_Recovered_15-01-21.png">
-</p>
-
 ## Total & Active Number of Cases
 <p align="center">
   <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/Total_ActiveCases_15-01-21.png">
