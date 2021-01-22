@@ -37,7 +37,7 @@ After the manipulation of the above data a dataframe is being created, containin
 11. Total_Tests
 12. Daily_Tests 
 
-For example the tail (last 5 rows) of the dataframe for the date **15/01/21** were:  
+For example the tail (last 5 rows) of the dataframe for the date **22/01/21** were:  
 |     | Dates    |   Total_Cases |   Daily_Cases |   Total_Losses |   Daily_Losses |   Intubated |   Total_Recovered |   Active_Cases |   Total_RTPCR_tests |   Total_RAPID_AG_tests |   Total_Tests |   Daily_Tests |
 |----:|:---------|--------------:|--------------:|---------------:|---------------:|------------:|------------------:|---------------:|--------------------:|-----------------------:|--------------:|--------------:|
 | 327 | 18/01/21 |        148925 |           320 |           5488 |             19 |         322 |             98312 |          45125 |             2966664 |                 840047 |       3806711 |          8173 |
@@ -46,45 +46,66 @@ For example the tail (last 5 rows) of the dataframe for the date **15/01/21** we
 | 330 | 21/01/21 |        150479 |           509 |           5570 |             25 |         293 |             98312 |          46597 |             3000313 |                 897881 |       3898194 |         29455 |
 | 331 | 22/01/21 |        151041 |           585 |           5598 |             28 |         288 |             98312 |          47131 |             3012892 |                 917739 |       3930631 |         32437 |
 
-and the plots until the same date (**15/01/21**) using the above dataframe were :
+and the plots until the same date (**22/01/21**) using the above dataframe were :
 ## Total Cases per day
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalCases_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/TotalCases_22-01-21.png">
 </p>
 
 ## Daily Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/DailyCasesBars_15-01-21.png">
-</p>
-
-## Total & Active Number of Cases
-<p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/Total_ActiveCases_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/DailyCasesBars_22-01-21.png">
 </p>
 
 ## Total & Daily Number of Cases
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalDaily_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/TotalDaily_22-01-21.png">
 </p>
+
+## Total Losses per day
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/TotalLosses_22-01-21.png">
+</p>
+
+## Daily Losses
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/DailyLossesBars_22-01-21.png">
+</p>
+
+## Total & Daily Losses
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/TotalDailyL_22-01-21.png">
+</p>
+
+## Intubated
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/Intubated_22-01-21.png">
+</p>
+
+## Total & Active Number of Cases
+<p align="center">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/Total_ActiveCases_22-01-21.png">
+</p>
+
 
 ## Total Cases per Month
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/PerMonth_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/PerMonth_22-01-21.png">
 </p>
 
 ## Daily number of Tests
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/DailyTests_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/DailyTests_22-01-21.png">
 </p>
 
 ## Total number of Tests
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/TotalTests_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/TotalTests_22-01-21.png">
 </p>
 
 ## Total number of Tests (RT-PCR and RAPID AG)
 <p align="center">
-  <img width="950" height="468" src="Plots_per_Date/Plots_for_15-01-21/Total_Tests_both_15-01-21.png">
+  <img width="950" height="468" src="Plots_per_Date/Plots_for_22-01-21/Total_Tests_both_22-01-21.png">
 </p>
 
 **Note:** To see the plots of an exact date, choose the corresponding folder from *[Plots_per_Date](https://github.com/kostasthanos/Covid-19-Greece/tree/master/Plots_per_Date)*.
