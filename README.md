@@ -3,7 +3,7 @@ Data and Plots about the pandemic progression in Greece.
 
 | Last Update |  Total Cases | Days |
 |     ---     |      ---     |  --- |
-|  15-01-21   |    147860    |  325 |
+|  22-01-21   |    151041    |  332 |
 
 <p align="center">
   <img width="300" height="200" src="imgs/flag.png">
@@ -25,24 +25,26 @@ Use of three (3) basic datasets.
 After the manipulation of the above data a dataframe is being created, containing the following columns :
 
 1. Dates
-2. Total Cases
-3. Daily Cases
-4. Total Recovered
-5. Active Cases
-6. Total RTPCR tests
-7. Total RAPID AG tests
-8. Total Tests
-9. Daily Tests
-
+2. Total_Cases
+3. Daily_Cases 
+4. Total_Losses
+5. Daily_Losses
+6. Intubated
+7. Total_Recovered
+8. Active_Cases
+9. Total_RTPCR_tests
+10. Total_RAPID_AG_tests
+11. Total_Tests
+12. Daily_Tests 
 
 For example the tail (last 5 rows) of the dataframe for the date **15/01/21** were:  
-|       |       Dates     |	Total Cases |	Daily Cases | Total Recovered | Active Cases | Total RTPCR tests | Total RAPID AG tests | Total Tests | Daily Tests |
-|  ---  |        ---      |     ---     |     ---     |       ---       |      ---     |        ---        |          ---         |     ---     |      ---    |
-|  321  |     11/01/21    |   145179    |     444     |      98312      |     41565    |      2897143      |         716066       |   3613209   |     16670   |
-|  322  |     12/01/21    |   146020    |     866     |      98312      |     42379    |      2909699      |         745184       |   3654883   |     41674   |
-|  323  |     13/01/21    |   146688    |     671     |      98312      |     43022    |      2921563      |         768300       |   3689863   |     34980   |
-|  324  |     14/01/21    |   147283    |     599     |      98312      |     43584    |      2933838      |         791064       |   3724902   |     35039   |
-|  325  |     15/01/21    |   147860    |     610     |      98312      |     44127    |      2945406      |         812024       |   3757430   |     32528   |
+|     | Dates    |   Total_Cases |   Daily_Cases |   Total_Losses |   Daily_Losses |   Intubated |   Total_Recovered |   Active_Cases |   Total_RTPCR_tests |   Total_RAPID_AG_tests |   Total_Tests |   Daily_Tests |
+|----:|:---------|--------------:|--------------:|---------------:|---------------:|------------:|------------------:|---------------:|--------------------:|-----------------------:|--------------:|--------------:|
+| 327 | 18/01/21 |        148925 |           320 |           5488 |             19 |         322 |             98312 |          45125 |             2966664 |                 840047 |       3806711 |          8173 |
+| 328 | 19/01/21 |        149462 |           566 |           5518 |             30 |         320 |             98312 |          45632 |             2977596 |                 860714 |       3838310 |         31599 |
+| 329 | 20/01/21 |        149973 |           516 |           5545 |             27 |         300 |             98312 |          46116 |             2989339 |                 879400 |       3868739 |         30429 |
+| 330 | 21/01/21 |        150479 |           509 |           5570 |             25 |         293 |             98312 |          46597 |             3000313 |                 897881 |       3898194 |         29455 |
+| 331 | 22/01/21 |        151041 |           585 |           5598 |             28 |         288 |             98312 |          47131 |             3012892 |                 917739 |       3930631 |         32437 |
 
 and the plots until the same date (**15/01/21**) using the above dataframe were :
 ## Total Cases per day
