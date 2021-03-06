@@ -1,0 +1,14 @@
+{
+    "general": {
+        "total_vaccinations": "1059304",
+        "daily_vaccinations": "34593"
+    },
+    "first_dose": {
+        "total_vaccinations": "697877",
+        "daily_vaccinations": "28725"
+    },
+    "second_dose": {
+        "total_vaccinations": "361427",
+        "daily_vaccinations": "5868"
+    }
+}
