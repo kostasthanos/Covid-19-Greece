@@ -1,14 +1,14 @@
 {
     "general": {
-        "total_vaccinations": "1059304",
-        "daily_vaccinations": "34593"
+        "total_vaccinations": "1.407.064",
+        "daily_vaccinations": "31.236"
     },
     "first_dose": {
-        "total_vaccinations": "697877",
-        "daily_vaccinations": "28725"
+        "total_vaccinations": "956.750",
+        "daily_vaccinations": "21.476"
     },
     "second_dose": {
-        "total_vaccinations": "361427",
-        "daily_vaccinations": "5868"
+        "total_vaccinations": "450.314",
+        "daily_vaccinations": "9.760"
     }
 }
