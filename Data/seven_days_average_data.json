@@ -1,8 +1,8 @@
 {
-    "Daily_Cases": 2307.285714285714,
-    "Intubated": 618.4285714285714,
-    "Daily_Tests": 37737.71428571428,
-    "Daily_Vaccinations": 21859.85714285714,
-    "First_Dose_Daily": 14235.0,
-    "Second_Dose_Daily": 7624.857142857143
+    "Daily_Cases": "2.307",
+    "Intubated": "618",
+    "Daily_Tests": "37.737",
+    "Daily_Vaccinations": "21.859",
+    "First_Dose_Daily": "14.235",
+    "Second_Dose_Daily": "7.624"
 }
