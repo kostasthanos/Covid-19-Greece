@@ -12,3 +12,4 @@
 12. cufflinks
 13. matplotlib.pyplot
 14. lxml.html/fromstring
+15. plotly
