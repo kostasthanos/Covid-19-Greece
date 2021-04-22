@@ -122,8 +122,7 @@ The sources been used to extract the data are :
 **Note:** Max Temperature data has been deleted from the csv file.
 
 ## Check also 
-For a more visual understanding of covid-19 data in Greece the following page :  
-[Covid-19 data plots](https://kostasthanos.github.io/svg_map_cases/Data_Plots/plots.html)
+For a more visual understanding of covid-19 data in Greece the following page : [Covid-19 data plots](https://kostasthanos.github.io/svg_map_cases/Data_Plots/plots.html)
 
 ## Author
 * **Konstantinos Thanos**
